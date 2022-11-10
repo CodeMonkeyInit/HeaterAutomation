@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HeaterAutomation" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish configuration="Release" platform="Any CPU" produce_single_file="true" ready_to_run="true" runtime="osx-x64" self_contained="true" target_folder="$USER_HOME$/HeaterAutomation" target_framework="net7.0" trim_unused_assemblies="true" uuid_high="-3270869016742572099" uuid_low="-7869500552921923349" />
+    <method v="2" />
+  </configuration>
+</component>
